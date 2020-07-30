@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fallout-terminal-solver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fallout_terminal_solver_jar</output-path>
+    <root id="archive" name="fallout-terminal-solver.jar">
+      <element id="module-output" name="fallout-terminal-solver" />
+    </root>
+  </artifact>
+</component>
